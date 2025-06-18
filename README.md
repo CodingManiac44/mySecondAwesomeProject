@@ -1,4 +1,4 @@
-mySecondAwesomeProject
+# mySecondAwesomeProject
 একটা ছোট Go প্রজেক্ট যেখানে আমরা আলাদা আলাদা প্যাকেজ ও মেথড ইউজ করে struct এবং method এর access control (public/private) শিখব।
 
 Project Structure (প্রজেক্টের ফোল্ডার গঠন)
